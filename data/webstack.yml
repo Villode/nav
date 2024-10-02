@@ -175,6 +175,184 @@
       description: 昆仑万维与奇点智源联合推出的AI大模型
 
 
+- taxonomy: AI编程工具
+  icon: fa-code
+  links:
+    - title: MarsCode
+      url: https://marscode.cn/
+      description: 专注于AI驱动的编程工具
+    - title: 通义灵码
+      url: https://tongyi.aliyun.com/lingma/
+      description: 阿里推出的AI编程助手
+    - title: Raccoon
+      url: https://raccoon.sensetime.com/code?utm_source=bljuly01
+      description: 商汤科技的编程助手
+    - title: BigModel
+      url: https://bigmodel.cn/login?utm_campaign=aibot
+      description: 大模型AI辅助编程平台
+    - title: GitHub Copilot
+      url: https://github.com/features/copilot
+      description: GitHub推出的AI编程助手
+    - title: AWS CodeWhisperer
+      url: https://aws.amazon.com/codewhisperer
+      description: AWS的AI编程辅助工具
+    - title: 百度灵感
+      url: https://comate.baidu.com/?inviteCode=8f8or9cz
+      description: 百度的AI编程工具
+    - title: Cursor
+      url: https://www.cursor.com/
+      description: 高效的AI代码编写工具
+    - title: CodeGeeX
+      url: https://codegeex.cn/zh-CN
+      description: 开源的AI代码生成器
+    - title: iFlyCode
+      url: https://iflycode.xfyun.cn/
+      description: 科大讯飞的AI编程平台
+    - title: Codeium
+      url: https://www.codeium.com
+      description: 免费的AI代码助手
+    - title: Sourcegraph Cody
+      url: https://about.sourcegraph.com/cody
+      description: Sourcegraph推出的AI代码助手
+    - title: DevChat
+      url: https://www.devchat.ai/
+      description: AI驱动的开发者助手
+    - title: Codium
+      url: https://www.codium.ai
+      description: 自动生成测试代码的AI工具
+    - title: Twinny
+      url: https://twinny.dev/
+      description: 提供AI辅助的代码优化工具
+    - title: IDX
+      url: https://idx.dev/
+      description: 可在线编辑和运行代码的AI平台
+    - title: Sketch2Code
+      url: https://sketch2code.azurewebsites.net
+      description: 将设计图转换为HTML的工具
+    - title: 腾讯智能代码助手
+      url: https://cloud.tencent.com/product/acc
+      description: 腾讯推出的AI编程助手
+    - title: CodeFuse
+      url: https://codefuse.alipay.com/
+      description: 支付宝推出的AI编程助手
+    - title: Tabby
+      url: https://tabby.tabbyml.com/
+      description: 开源AI代码助手
+    - title: CSDN AI编程助手
+      url: https://so.csdn.net/chat
+      description: CSDN推出的编程AI助手
+    - title: GitLab Duo
+      url: https://about.gitlab.com/gitlab-duo/
+      description: GitLab推出的AI助手
+    - title: CodeRabbit
+      url: https://coderabbit.ai/
+      description: 提供代码生成的AI工具
+    - title: AugmentCode
+      url: https://www.augmentcode.com/
+      description: 高效的AI代码生成工具
+    - title: Devin AI
+      url: https://preview.devin.ai/
+      description: 基于AI的代码生成平台
+    - title: PlanDex
+      url: https://plandex.ai/
+      description: 面向开发者的AI辅助平台
+    - title: CodeFitten
+      url: https://code.fittentech.com/
+      description: AI驱动的编程助手
+    - title: Blackbox
+      url: https://www.useblackbox.io/
+      description: AI助手工具，用于代码生成
+    - title: Soloist AI
+      url: https://soloist.ai/
+      description: 用于编程的AI助手
+    - title: JetBrains AI
+      url: https://www.jetbrains.com/ai/
+      description: JetBrains推出的AI编程辅助工具
+    - title: 华为CodeArts
+      url: https://www.huaweicloud.com/product/codeartside/snap.html
+      description: 华为推出的编程辅助工具
+    - title: AskCodi
+      url: https://www.askcodi.com
+      description: 为开发者提供的AI助手
+    - title: ChatDev
+      url: https://chatdev.modelbest.cn/
+      description: AI生成代码的工具
+    - title: V0.dev
+      url: https://v0.dev/
+      description: 基于AI的编程平台
+    - title: Boxy
+      url: https://codesandbox.io/blog/meet-boxy-ai-coding-assistant
+      description: CodeSandbox推出的AI编程助手
+    - title: Quest AI
+      url: https://www.quest.ai/
+      description: 自动化代码生成工具
+    - title: Sky-Code
+      url: https://sky-code.singularity-ai.com/index.html#
+      description: AI编程助手，提供代码优化功能
+    - title: JamGPT
+      url: https://jam.dev/jamgpt
+      description: Jam推出的AI代码助手
+    - title: AIxCoder
+      url: https://www.aixcoder.com
+      description: 智能代码编写工具
+    - title: Airops
+      url: https://www.airops.com
+      description: 为企业开发的AI编程工具
+    - title: Imgcook
+      url: https://www.imgcook.com
+      description: 将设计转化为代码的工具
+    - title: 灵动科技
+      url: https://ling-deco.jd.com
+      description: 京东推出的智能代码助手
+    - title: Replit Ghostwriter
+      url: https://replit.com/site/ghostwriter
+      description: Replit推出的AI代码助手
+    - title: Codiga
+      url: https://www.codiga.io
+      description: AI代码生成和优化工具
+    - title: Locofy
+      url: https://www.locofy.ai
+      description: 为开发者提供的AI工具
+    - title: Fronty
+      url: https://fronty.com
+      description: 基于AI的前端代码生成工具
+    - title: MarsX
+      url: https://www.marsx.dev
+      description: 提供AI辅助开发工具的平台
+    - title: Tabnine
+      url: https://www.tabnine.com
+      description: AI驱动的代码补全工具
+    - title: Mutable AI
+      url: https://mutable.ai
+      description: AI工具，用于提升代码质量
+    - title: Debuild
+      url: https://debuild.app
+      description: 基于AI的全栈开发工具
+    - title: Warp AI
+      url: https://www.warp.dev
+      description: Warp推出的AI开发环境
+    - title: Fig
+      url: https://fig.io
+      description: AI终端助手，提升开发者效率
+    - title: CodeSnippets AI
+      url: https://codesnippets.ai
+      description: AI工具，用于生成代码片段
+    - title: Hocoos
+      url: https://hocoos.com
+      description: 为开发者提供AI代码助手
+    - title: HTTPie AI
+      url: https://httpie.io/ai
+      description: API AI开发工具
+    - title: AI Code Reviewer
+      url: https://ai-code-reviewer.com
+      description: 基于AI的代码审查工具
+    - title: IntelliCode
+      url: https://visualstudio.microsoft.com/zh-hans/services/intellicode
+      description: 微软推出的智能代码建议工具
+    - title: HeyCLI
+      url: https://www.heycli.com
+      description: 基于AI的命令行工具
+
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
   links: 
