@@ -22,8 +22,8 @@
 </head>
 <body class="page-body {{ if .Site.Params.darkmode.enable }}black{{ else }}white{{ end }}">
     <div class="page-container">
-        <div class="sidebar-menu toggle-others fixed">
-            <div class="sidebar-menu-inner">
+        <div class="sidebar-menu toggle-others">
+            <div class="sidebar-menu-inner" style="overflow-y: auto;">
                 <header class="logo-env">
                     <!-- logo -->
                     <div class="logo">
@@ -308,51 +308,47 @@
             }
         })
         $('.user-info-menu .hidden-xs').click(function(){
-    var col_width = $('.col-md-3').width();
-    var row_width = $('.row').width();
-    var percentage = ((col_width + 30) / row_width).toFixed(2);
-
-    if ($('.sidebar-menu').hasClass('collapsed')) {
-        $('.has-sub.expanded > ul').attr("style", "");
-        $('.sidebar-menu-inner').css('overflow', 'hidden'); // 折叠时隐藏滚动
-
-        // 缩小菜单栏 卡片列数+1
-        switch (percentage) {
-            case '0.33': 
-                $(".col-md-3").css("width", "25%");
-                break;
-            case '0.25': 
-                $(".col-md-3").css("width", "20%");
-                break;
-            case '0.20': 
-                $(".col-md-3").css("width", "16.666%");
-                break;
-            case '0.17': 
-                $(".col-md-3").css("width", "14.286%");
-                break;                        
-        }
-    } else {
-        $('.has-sub.expanded > ul').show();
-        $('.sidebar-menu-inner').css('overflow-y', 'auto'); // 展开时允许滚动
-
-        // 展开菜单栏 卡片列数-1
-        switch (percentage) {
-            case '0.25': 
-                $(".col-md-3").css("width", "33.333%");
-                break;
-            case '0.20': 
-                $(".col-md-3").css("width", "25%");
-                break;
-            case '0.17': 
-                $(".col-md-3").css("width", "20%");
-                break;
-            case '0.14': 
-                $(".col-md-3").css("width", "16.666%");
-                break;                                                 
-        }
-    }
-});
-
+            var col_width = $('.col-md-3').width();
+            var row_width = $('.row').width();
+            var percentage = ((col_width + 30) / row_width).toFixed(2);
+            if($('.sidebar-menu').hasClass('collapsed')) {
+                $('.has-sub.expanded > ul').attr("style","")
+                <!-- 缩小菜单栏 卡片列数+1 -->
+                 switch (percentage){
+                    case '0.33': 
+                        $(".col-md-3").css("width", "25%");
+                        break;
+                    case '0.25': 
+                        $(".col-md-3").css("width", "20%");
+                        break;
+                    case '0.20': 
+                        $(".col-md-3").css("width", "16.666%");
+                        break;
+                    case '0.17': 
+                        $(".col-md-3").css("width", "14.286%");
+                        break;                        
+                }
+                <!-- 缩小菜单栏 卡片列数+1 END-->
+            } else {
+                $('.has-sub.expanded > ul').show()
+                <!-- 展开菜单栏 卡片列数-1 -->
+                switch (percentage){
+                    case '0.25': 
+                        $(".col-md-3").css("width", "33.333%");
+                        break;
+                    case '0.20': 
+                        $(".col-md-3").css("width", "25%");
+                        break;
+                    case '0.17': 
+                        $(".col-md-3").css("width", "20%");
+                        break;
+                    case '0.14': 
+                        $(".col-md-3").css("width", "16.666%");
+                        break;                                                 
+                }
+                <!-- 展开菜单栏 卡片列数-1 END-->
+            }
+        })
         $("#main-menu li ul li").click(function() {
             $(this).siblings('li').removeClass('active'); // 删除其他兄弟元素的样式
             $(this).addClass('active'); // 添加当前元素的样式
