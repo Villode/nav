@@ -4,28 +4,28 @@ date: 2023-12-20
 draft: false
 ---
 
+# 关于Villode'导航站
 
+欢迎访问Ai导航站，本站旨在为大家提供最新的AI相关资源与工具，帮助你快速找到所需的内容，并高效利用人工智能技术。
 
-本网站由 [Hugo](https://github.com/gohugoio/hugo) 驱动，使用 [hugo-webstack](https://github.com/oulh/hugo-webstack) 主题，通过 Github [Pages](https://pages.github.com/) 构建。
+## 主要功能
+- **资源导航**：汇总了最新的AI工具、API和学习资源。
+- **实时更新**：定期更新内容，确保你能够获取最前沿的信息。
 
-[hugo-webstack](https://github.com/oulh/hugo-webstack) 是基于**纯静态**的网址导航网站[webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的[Hugo](https://gohugo.io/)主题。
+## 如何使用
+1. 浏览首页导航，选择你感兴趣的分类。
+2. 点击相关资源，查看详细页面说明。
 
-### 本站模板
+## 广告
+为了维持站点的正常运营，我们展示了一些合作伙伴的广告。通过点击广告，你可以获取更多优质服务的推荐，同时也为本站的持续维护贡献一份力量。如果你有任何广告投放需求，欢迎与我们联系，洽谈合作。
 
-[https://github.com/oulh/nav](https://github.com/oulh/nav)
+广告位合作联系邮箱：`Villode@bk.ru`
 
-### 本站主题
+## 联系我们
+如果你有任何问题、建议或者反馈，欢迎通过以下方式与我们联系：
 
-[https://github.com/oulh/hugo-webstack](https://github.com/oulh/hugo-webstack)
+- **邮箱**: `Villode@bk.ru , villode@wzxnq.eu.org`
+- **YouTube**: [@Villode](https://www.youtube.com/@Villode)
+- **Twitter**: [@Villode](https://twitter.com/isgovo)
 
-### 便捷编辑
-
-1. logo：已内置api，留空即可自动加载
-
-2. description：可以复制网站自带的description内容，电脑浏览器按F12，在"元素"栏按Ctrl+F，搜"desc"，一般第一个就是
-
-3. qrcode：可以填写api链接，如：[https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/)，
-
-    不过加载有点慢，使用本地图片更快。
-
-4. FontAwesome图标：[https://origin.fontawesome.com/v6/search](https://origin.fontawesome.com/v6/search/)
+我们会尽快回复你的消息，感谢你的支持！
