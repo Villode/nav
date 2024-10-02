@@ -37,7 +37,8 @@
       url: https://www.google.com/
       description: 全球最大的UI学习分享平台
       
-    
+# -----------Ai工具区------------
+
 - taxonomy: AI对话工具
   icon: fa-comments
   links:
@@ -352,6 +353,126 @@
     - title: HeyCLI
       url: https://www.heycli.com
       description: 基于AI的命令行工具
+
+- taxonomy: AI搜索工具
+  icon: fa-search
+  links:
+    - title: 夸克AI
+      url: https://b.quark.cn/apps/qkhomepage_twofoufeb/routes/model?entry=gp_wyydwygppckk_airesume_2&ch=gp_wyydwygppckk_airesume_2&image=airesume&dp=airesume
+      description: 集成AI搜索、网盘和文档功能的全能应用
+    - title: 开搜AI
+      url: https://kaisouai.com/
+      description: 免费AI问答搜索引擎
+    - title: 秘塔AI搜索
+      url: https://metaso.cn/
+      description: 无广告、直达结果的AI搜索引擎
+    - title: Perplexity
+      url: https://www.perplexity.ai/
+      description: 强大的对话式AI搜索引擎
+    - title: Lumina
+      url: https://lumina.sh/
+      description: 免费的AI学术搜索引擎
+    - title: AMiner
+      url: https://www.aminer.cn/
+      description: 智谱AI推出的学术大模型平台
+    - title: SearchGPT
+      url: https://chatgpt.com/search
+      description: OpenAI推出的AI搜索引擎
+    - title: 知乎直答
+      url: https://zhida.zhihu.com/
+      description: 知乎推出的AI搜索引擎
+    - title: Felo
+      url: https://felo.ai/
+      description: 支持社交联网搜索和多语种问答的AI搜索引擎
+    - title: 心流
+      url: https://iflow.cn/
+      description: 阿里推出的AI搜索助手
+    - title: 博查AI搜索
+      url: https://bochaai.com/
+      description: 支持多模型的AI搜索工具
+    - title: Reddo
+      url: https://www.reddo.cloud/
+      description: 全球产品信息AI搜索引擎
+    - title: 360AI搜索
+      url: https://so.360.com/
+      description: 360推出的新一代AI搜索工具
+    - title: 天工AI搜索
+      url: https://search.tiangong.cn/
+      description: 昆仑万维推出的结合大模型的AI搜索引擎
+    - title: XAnswer
+      url: https://www.xanswer.com/
+      description: 支持生成思维导图的AI搜索工具
+    - title: 链企AI
+      url: https://www.lianqiai.cn/
+      description: 链企推出的AI商业搜索工具
+    - title: Flowith
+      url: https://flowith.io/
+      description: 节点交互式AI搜索和对话工具
+    - title: Genspark
+      url: https://www.genspark.ai/
+      description: 基于智能体的AI搜索引擎
+    - title: 问问小宇宙
+      url: https://ask.xiaoyuzhoufm.com/
+      description: 小宇宙推出的AI搜索产品
+    - title: Dexa AI
+      url: https://dexa.ai/
+      description: AI播客搜索工具
+    - title: Devv
+      url: https://devv.ai/
+      description: 面向程序员的AI搜索引擎
+    - title: Exa AI
+      url: https://exa.ai/
+      description: 为AI模型设计的搜索引擎平台
+    - title: CuspAI
+      url: https://www.cusp.ai/
+      description: 剑桥大学推出的材料学AI搜索工具
+    - title: Adot
+      url: https://www.adot.tech/
+      description: AI驱动的Web3搜索引擎
+    - title: Glean
+      url: https://www.glean.com/
+      description: 专为职场人设计的AI搜索引擎
+    - title: AlphaSense
+      url: https://www.alpha-sense.com/
+      description: 专为金融领域设计的AI搜索工具
+    - title: Globe Explorer
+      url: https://explorer.globe.engineer/
+      description: 结构化AI知识搜索引擎
+    - title: Reportify
+      url: https://reportify.cc/
+      description: AI投资研究问答搜索工具
+    - title: Phind
+      url: https://www.phind.com/
+      description: 专为开发者设计的AI搜索引擎
+    - title: iAsk AI
+      url: https://iask.ai/
+      description: 快速准确的AI搜索引擎
+    - title: Consensus
+      url: https://consensus.app/
+      description: AI科研学术搜索引擎
+    - title: Komo Search
+      url: https://komo.ai/
+      description: 简洁的AI搜索引擎
+    - title: Searcholic
+      url: https://searcholic.com/
+      description: AI驱动的电子书和文档搜索引擎
+    - title: Andi
+      url: https://andisearch.com/
+      description: 对话式AI搜索引擎
+    - title: Songtell
+      url: https://www.songtell.com/
+      description: AI驱动的音乐百科搜索引擎
+    - title: ThinkAny
+      url: https://thinkany.ai/
+      description: 新时代的AI搜索引擎
+    - title: Miku
+      url: https://www.hellomiku.com/
+      description: 快速精准的AI搜索引擎
+    - title: Qdrant
+      url: https://qdrant.tech/
+      description: 开源的向量数据库与搜索引擎
+
+# --------------AI工具区--------------
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
