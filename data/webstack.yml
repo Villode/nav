@@ -473,8 +473,8 @@
       description: 开源的向量数据库与搜索引擎
 
 - taxonomy: AI开发平台
-icon: fa fa-puzzle-piece
-links:
+  icon: fa fa-puzzle-piece
+  links:
   - title: BigModel
     url: https://bigmodel.cn/
     description: 智谱AI推出的大模型开发平台，新用户免费领取2500万Tokens
