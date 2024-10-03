@@ -719,32 +719,32 @@
           url: https://faxian.appinn.com/
           description: 在这里发现更多有趣的应用
       
-    - term: 界面灵感
-      links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-        - title: Collect UI
-          logo: images/logos/CollectUI.png
-          url: http://collectui.com/
-          description: Daily inspiration collected from daily ui archive and beyond.
-        - title: UI uigreat
-          logo: images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
-          description: APP界面截图参考
-        - title: Android Niceties
-          logo: images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+        - term: 界面灵感
+          links:
+            - title: Pttrns
+              logo: images/logos/Pttrns.png
+              url: https://www.pttrns.com/
+              description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
+            - title: Collect UI
+              logo: images/logos/CollectUI.png
+              url: http://collectui.com/
+              description: Daily inspiration collected from daily ui archive and beyond.
+            - title: UI uigreat
+              logo: images/logos/uiuigreat.png
+              url: http://ui.uigreat.com/
+              description: APP界面截图参考
+            - title: Android Niceties
+              logo: images/logos/AndroidNiceties.png
+              url: https://androidniceties.tumblr.com/
+              description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
       
-    - term: 实用工具
-      links:
-    - title: 二维码演示
-      qrcode: images/qrcodes/cli.png
-      logo: 
-      url: https://cli.im/url
-      description: 二维码演示，手机扫一扫，也可以点击
+        - term: 实用工具
+          links:
+        - title: 二维码演示
+          qrcode: images/qrcodes/cli.png
+          logo: 
+          url: https://cli.im/url
+          description: 二维码演示，手机扫一扫，也可以点击
 
       
 - taxonomy: 素材资源
