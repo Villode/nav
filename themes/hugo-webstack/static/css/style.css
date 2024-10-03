@@ -1,5 +1,5 @@
 .menu-nav {
-    overflow-y: scroll; /* 添加滚动功能 */
+    overflow-y: auto;
     -ms-overflow-style: none;  /* IE 和 Edge */
     scrollbar-width: none;  /* Firefox */
   }
