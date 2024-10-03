@@ -718,7 +718,6 @@
           logo: images/logos/appinn.png
           url: https://faxian.appinn.com/
           description: 在这里发现更多有趣的应用
-      
         - term: 界面灵感
           links:
         - title: Pttrns
@@ -737,7 +736,6 @@
           logo: images/logos/AndroidNiceties.png
           url: https://androidniceties.tumblr.com/
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-      
         - term: 实用工具
           links:
         - title: 二维码演示
