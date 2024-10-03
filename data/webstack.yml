@@ -582,60 +582,113 @@
   - title: Leap
     url: https://www.tryleap.ai/
     description: 将AI快速集成到你自己的应用中
+
+- taxonomy: Ai智能工具
+  icon: fa-solid fa-robot
+  links:
+    - title: ollama
+      url: https://ollama.com/
+      description: 启动并运行大型语言模型
+    - title: openui-fly
+      url: https://openui.fly.dev/ai/new
+      description: 描述、截图生成html
 # --------------AI工具区--------------
 
-- taxonomy: 社区咨询
+- taxonomy: 网页工具
+  icon: fa-solid fa-globe
+  links:
+    - title: getTextTools
+      url: https://www.gettexttools.com/
+      description: 一个免费且简单易用的文本工具集合
+    - title: 小蚂蚁工具箱
+      url: https://anttoolbox.com/zh
+      description: 编程开发、人工智能、文本工具、图像工具、时间工具、文件工具
+    - title: PotatoTools
+      url: https://chenpotatos.github.io/tools/
+      description: 最全的在线工具集，包含50多种实用工具
+    - title: StrErr Tool
+      url: https://www.strerr.com/cn/tools.html
+      description: 在线工具列表
+    - title: bincheck
+      url: https://bincheck.io/zh
+      description: 世界上最准确的银行识别码 (“BIN”) 检查器
+    - title: NamsoGen
+      url: https://namso-gen.com/
+      description:  您的测试工具包，先进的信用卡号生成器加速您的部署
+    - title: 美国地址生成器
+      url: https://www.meiguodizhi.com/
+      description: 学习各国的地址格式，了解地名和街道的名称，请不要用于非法用途
+    # - title: 
+    #   url: 
+    #   description: 
+    # - title: 
+    #   url: 
+    #   description: 
+
+- taxonomy: 开发编程
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
-      logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
-    
+    - title: Github
+      url: https://github.com/
+      description: 全球顶级社区
+    - title: 博客园
+      url: https://www.cnblogs.com/
+      description: 博客园是一个面向开发者的技术社区
+    - title: 技术栈
+      url: https://jishuzhan.net/
+      description: 前端、java、算法、后端、数据库、人工智能
+    - title: 菜鸟教程
+      url: https://www.runoob.com/
+      description: 学的不仅是技术，更是梦想！
+    - title: 编程猫
+      url: https://shequ.codemao.cn/
+      description: 领跑中国青少年编程教育
+    - title: 掘金
+      url: https://juejin.cn/
+      description: 代码不止，掘金不停
+    - title: V2EX
+      url: https://www.v2ex.com/
+      description: V2EX 是创意工作者们的社区
+    - title: w3cschool
+      url: http://www.w3school.com.cn/
+      description: 全球最大的WEB技术资源
+   - title: SegmentFault 思否
+      url: https://segmentfault.com/
+      description: 检索，交流和分享任何技术编程相关的问题及知识
+    - title: StackOverFlowStack
+      url: http://stackoverflow.com/
+      description: 一个与程序相关的IT技术问答网站
+  #  - title: 
+  #     url: 
+  #     description: 
+  #   - title: 
+  #     url: 
+  #     description:      
+
+
+#  流程图
+- taxonomy: 流程图
+  icon: fa-solid fa-code-branch
+  links:
+    - title: WebSequenceDiagrams
+      url: https://www.websequencediagrams.com/app
+      description: 在几秒钟内创建序列图，比白板更快
+    - title: ioDraw
+      url: https://www.iodraw.com/
+      description: 免费在线画图，无需注册
+    - title: drawio
+      url: https://www.drawio.com/
+     description: 团队安全优先的图表，无需登录或注册
+   - title: boardmix博思白板
+      url: https://boardmix.cn/
+      description: 在线流程图，AI生成流程图
+    # - title: 
+    #   url: 
+    #   description:      
+    # - title: 
+    #   url: 
+    #   description: 
+
 
 - taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
