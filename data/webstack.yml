@@ -718,8 +718,8 @@
           logo: images/logos/appinn.png
           url: https://faxian.appinn.com/
           description: 在这里发现更多有趣的应用
-        - term: 界面灵感
-          links:
+    - term: 界面灵感
+      links:
         - title: Pttrns
           logo: images/logos/Pttrns.png
           url: https://www.pttrns.com/
@@ -736,8 +736,8 @@
           logo: images/logos/AndroidNiceties.png
           url: https://androidniceties.tumblr.com/
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-        - term: 实用工具
-          links:
+    - term: 实用工具
+      links:
         - title: 二维码演示
           qrcode: images/qrcodes/cli.png
           logo: 
@@ -1561,9 +1561,6 @@
       logo: images/logos/ctrip.png
       description: 携程设计委员会-Ctrip Design Committee
      
-
-
-
      
 - taxonomy: 友情链接
   icon: fa-link
