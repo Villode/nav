@@ -652,7 +652,7 @@
     - title: w3cschool
       url: http://www.w3school.com.cn/
       description: 全球最大的WEB技术资源
-   - title: SegmentFault 思否
+    - title: SegmentFault 思否
       url: https://segmentfault.com/
       description: 检索，交流和分享任何技术编程相关的问题及知识
     - title: StackOverFlowStack
@@ -678,8 +678,8 @@
       description: 免费在线画图，无需注册
     - title: drawio
       url: https://www.drawio.com/
-     description: 团队安全优先的图表，无需登录或注册
-   - title: boardmix博思白板
+      description: 团队安全优先的图表，无需登录或注册
+    - title: boardmix博思白板
       url: https://boardmix.cn/
       description: 在线流程图，AI生成流程图
     # - title: 
